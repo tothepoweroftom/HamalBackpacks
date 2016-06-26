@@ -1396,7 +1396,7 @@
 	}
 
 	body {
-		background: #2e3842;
+		background: #657153;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -2527,11 +2527,11 @@
 		}
 
 		.spotlight:nth-child(1) {
-			background-color: rgba(0, 0, 0, 0.075);
+			background-color: rgba(101, 113,83, 0.075);
 		}
 
 		.spotlight:nth-child(2) {
-			background-color: rgba(0, 0, 0, 0.15);
+			background-color: rgba(147,162,155, 0.15);
 		}
 
 		.spotlight:nth-child(3) {
